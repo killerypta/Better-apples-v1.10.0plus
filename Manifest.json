@@ -1,0 +1,22 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "Добавляет листик на текстуре яблока",
+		"name": "Better apples",
+		"uuid": "53732366-18b4-40c6-8ab6-1d64d1ef057f",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 10, 0]
+	},
+	"modules": [
+		{
+			"description": "Добавляет листик на текстуре яблока",
+			"type": "resources",
+			"uuid": "b8433bcf-c445-49d6-baaf-d5f3dfe27ae1",
+			"version": [1, 0, 0],
+			"metadata": {
+				"authors": ["killerypta"],
+				"url": "https://github.com/killerypta/Better-apples-v1.10.0plus"
+			}
+		}
+	]
+}
